@@ -1,0 +1,7 @@
+hello word!
+1. Experimental purpose
+Understand the basic principles of the sliding window protocol; master the working principle of GBN; master the process and technology based on UDP design and implement a GBN protocol.
+2. Experimental environment
+ Experimental host connected to the Internet;  Windows xp or Windows 7/8;  Development language: C/C++ (or Java).
+3. Experimental content
+1) Design a simple GBN protocol based on UDP to achieve one-way reliable data transmission (server-to-customer data transmission). 2) Simulate the loss of incoming packets and verify the validity of the designed protocol.
